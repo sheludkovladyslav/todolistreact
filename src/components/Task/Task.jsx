@@ -1,5 +1,5 @@
 import { MdClose } from "react-icons/md";
-import css from "./Task.module.css";
+import css from "./Task.module.scss";
 
 export const Task = ({ task }) => {
   return (

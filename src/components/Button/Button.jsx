@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import css from "./Button.module.css";
+import css from "./Button.module.scss";
 
 export const Button = ({
   selected = false,

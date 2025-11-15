@@ -1,5 +1,5 @@
 import { Button } from "./../Button/Button";
-import css from "./StatusFilter.module.css";
+import css from "./StatusFilter.module.scss";
 
 export const StatusFilter = () => {
   return (

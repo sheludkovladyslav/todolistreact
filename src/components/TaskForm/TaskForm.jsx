@@ -1,5 +1,5 @@
 import { Button } from "./../Button/Button";
-import css from "./TaskForm.module.css";
+import css from "./TaskForm.module.scss";
 
 export const TaskForm = () => {
   const handleSubmit = (event) => {

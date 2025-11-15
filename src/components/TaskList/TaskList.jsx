@@ -1,5 +1,5 @@
 import { Task } from "./../Task/Task";
-import css from "./TaskList.module.css";
+import css from "./TaskList.module.scss";
 
 export const TaskList = () => {
   return (

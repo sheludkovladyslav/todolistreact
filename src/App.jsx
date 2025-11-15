@@ -1,5 +1,3 @@
-import { useState } from "react";
-import "./App.css";
 import { AppBar } from "./components/AppBar/AppBar";
 import { Layout } from "./components/Layout/Layout";
 import { TaskForm } from "./components/TaskForm/TaskForm";
